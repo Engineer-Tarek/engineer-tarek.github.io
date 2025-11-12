@@ -1,5 +1,5 @@
 # engineer-tarek.github.io
-Privacy Policy for Prayer Raka’at Counter
+**Privacy Policy for Prayer Raka’at Counter**
 
 Effective Date: November 2025
 
@@ -12,7 +12,8 @@ https://policies.google.com/technologies/ads
 
 We do not collect any data such as name, location, contacts, or any other personal details. The app only uses proximity sensor readings locally on your device to count prayer movements.
 
-سياسة الخصوصية لتطبيق عداد ركعات الصلاة
+
+**سياسة الخصوصية لتطبيق عداد ركعات الصلاة**
 
 تاريخ السريان: نوفمبر 2025
 
